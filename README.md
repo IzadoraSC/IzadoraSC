@@ -21,7 +21,7 @@
   <img align="center" alt="Iza-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-plain.svg">
   <img align="center" alt="Iza-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Iza-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Iza-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Iza-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/950171876947296268/1014917755025236118/my_emotion.png?width=585&height=585">
 </div>
 
 ##
