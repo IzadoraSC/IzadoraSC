@@ -10,11 +10,6 @@
 - 🧾🤯 I am looking for learning more and more about environmental research and remote sensing.
 - 😄 Pronouns: she/her
 
-<div align="center">
-  <a href="https://github.com/IzadoraSC">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=IzadoraSC&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzadoraSC&layout=compact&langs_count=7&theme=jolly"/>
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Iza-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
@@ -23,6 +18,7 @@
   <img align="center" alt="Iza-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="right" alt="Iza-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/950171876947296268/1014917755025236118/my_emotion.png?width=585&height=585">
 </div>
+
 
 ##
 
