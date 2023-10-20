@@ -29,7 +29,5 @@
  <a href="https://discord.gg/IzadoraSC#2733" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "https://github.com/IzadoraSC"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://br.linkedin.com/in/izadora-santos-de-carvalho-817850141" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/IzadoraSC/IzadoraSC/blob/output/github-contribution-grid-snake.svg)
- 
+
 </div>
