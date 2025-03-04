@@ -16,7 +16,7 @@
   <img align="center" alt="Iza-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-plain.svg">
   <img align="center" alt="Iza-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Iza-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img src="https://github.com/IzadoraSC/gifts_images/blob/main/avatar.gif" width="100%;"/>(https://github.com/IzadoraSC/gifts_images)<br />
+  <img align="right" alt="Iza-pic" height="150" style="border-radius:50px;" src="https://github.com/IzadoraSC/gifts_images/blob/main/avatar.gif" width="100%;"/>(https://github.com/IzadoraSC/gifts_images)<br />
 
 </div>
 
