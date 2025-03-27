@@ -1,7 +1,10 @@
 ### Hi I'm Izadora Santos 👋
 
 
-- 👩‍💻📚 I am currently a PhD student in Agroecology at the State University of Maranhao - UEMA.
+- 👩‍💻📚 I have a PhD in Agroecology at the State University of Maranhao - UEMA.
+- 📝I'm currently a temporary lecturer on the Meteorology and Geography course at UEMA São Luís-MA/Brazil, teaching:
+  - 👩‍💻 Introduction to Computing Applied to Atmospheric Sciences I and II
+  - 🌎 Ecology
 - 🔎📝 I am currently working on research with: 
   - 🔥 Fire ecology and dynamics in tropical ecosystems (Cerrado);
   - 🌱 Vegetation mapping; and
