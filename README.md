@@ -8,6 +8,7 @@
   - <img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/76712cf4-02ab-44b4-bf73-bb24f2accd33" /> Remote Sensing
   - <img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/76712cf4-02ab-44b4-bf73-bb24f2accd33" /> <img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/4a315257-ae96-4474-b0f9-27ae89fc187b" /> Digital Image Processing
   - <img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/e04e043e-4c7b-4da7-b116-18621e12dbcc" /> Extension Projects in Geography
+  - <img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/76712cf4-02ab-44b4-bf73-bb24f2accd33" /> <img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/4a315257-ae96-4474-b0f9-27ae89fc187b" /> Geoprocessing and SIG
 
 
 - 🔎📝 I am currently working on research with: 
